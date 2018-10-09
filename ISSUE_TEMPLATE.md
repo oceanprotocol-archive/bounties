@@ -43,7 +43,7 @@ Any help solving this is welcome. Feel free to leave any comments and help someo
 Pull requests will be reviewed by one of the maintainers or long-term contributors. In case of any additional questions feel free to ask in this thread and we will do our best to add the missing info :)
 
 ## Things to know
-The bounty lifecycle process including payout will be managed using [Gitcoin]().
+The bounty lifecycle process including payout will be managed using [Gitcoin](https://gitcoin.co/explorer?network=mainnet&keywords=oceanprotocol&order_by=-web3_created).
 We'll be responding to your questions here, but for discussion and clarification we recommend to join also our [Gitter channel](https://gitter.im/oceanprotocol/Lobby) where our tech community is accessible.
 In order to see the PROCN balance in your wallet you'll need to reference the related token contract with address _0xf2aabdd898a0139195b2b5da7387d43a45ded254_. If you use a Metamask plugin you'll find the the exact steps [here](https://metamask.zendesk.com/hc/en-us/articles/360015489011-Managing-ERC20-Tokens).
 
