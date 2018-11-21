@@ -46,7 +46,8 @@ Pull requests will be reviewed by one of the maintainers or long-term contributo
 The bounty lifecycle process including payout will be managed using [Gitcoin](https://gitcoin.co/explorer?network=mainnet&keywords=oceanprotocol&order_by=-web3_created).
 We'll be responding to your questions here, but for discussion and clarification we recommend to join also our [Gitter channel](https://gitter.im/oceanprotocol/Lobby) where our tech community is accessible.
 In order to see the PROCN balance in your wallet you'll need to reference the related token contract with address _0xf2aabdd898a0139195b2b5da7387d43a45ded254_. If you use a Metamask plugin you'll find the the exact steps [here](https://metamask.zendesk.com/hc/en-us/articles/360015489011-Managing-ERC20-Tokens).
+Lastly, even if it is a contest bounty, we will reward all valuable contributions and efforts. We greatly appreciate the value our open source community brings to Ocean and will always award some tokens to all great contributions! :smiley:
 
 ## Reward
 
-This bounty is valued at `bounty reward` PROCN tokens. Once the project was reviewed and merged in the master branch, you will receive the reward. PROCN is a proto-Ocean token. Bounty hunters that earn PROCN will be able to convert them 1:1 to Ocean tokens on network launch (currently Ocean Token is valued at 0.20 EUR). Network launch is expected to happen by Mar 31, 2019. Until then PROCN will be locked and non-transferrable in the ETH wallet to which it is delivered to.
+Once the project was reviewed and merged in the master branch, you will receive the reward. PROCN is a proto-Ocean token. Bounty hunters that earn PROCN will be able to convert them 1:1 to Ocean tokens on network launch (currently Ocean Token is valued at 0.20 EUR). Network launch is expected to happen by Mar 31, 2019. Until then PROCN will be locked and non-transferrable in the ETH wallet to which it is delivered to.
