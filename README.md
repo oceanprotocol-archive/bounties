@@ -4,7 +4,7 @@
 CALLING ALL BOUNTY HUNTERS! :moneybag: :money_with_wings: :gun:
 ---
 
-Our goal is to keep growing and engaging our opensource dev community through bounties on [Gitcoin](https://gitcoin.co/explorer?network=mainnet&keywords=oceanprotocol&order_by=-web3_created). Talk to us on [Gitter](https://gitter.im/oceanprotocol/Lobby)! Non-technical bounties can be found on [bounty.networks](https://explorer.bounties.network/explorer?bountyStage=active&platform=bounties-network&search=ocean)
+Our goal is to keep growing and engaging our opensource dev community through bounties on [Gitcoin](https://gitcoin.co/explorer?network=mainnet&keywords=oceanprotocol&order_by=-web3_created). Talk to us on [Gitter](https://gitter.im/oceanprotocol/Lobby)! Non-technical bounties can be found on [bounty.networks](https://explorer.bounties.network/explorer?bountyStage=active&platform=bounties-network&search=ocean).
 
 #### How It Works?
 We post bounties on [Gitcoin](https://gitcoin.co/explorer?network=mainnet&keywords=oceanprotocol&order_by=-web3_created) via. this repository quite regularly. Instructions on how to complete the bounty will be included in the repository. The bounty will be awarded to the hunter who finishes within the deadline with the best solution. 
