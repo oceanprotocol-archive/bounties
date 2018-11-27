@@ -19,4 +19,4 @@ Once the project has been completed, a pull request may be initiated in the repo
 Once the project was reviewed and merged in the master branch, you will receive the reward. PROCN is a proto-Ocean token. Bounty hunters that earn PROCN will be able to convert them 1:1 to Ocean tokens on network launch (currently Ocean Token is valued at 0.20 EUR). Network launch is expected to happen by Mar 31, 2019. Until then PROCN will be locked and non-transferrable in the ETH wallet to which it is delivered to. 
 
 #### Open Bounty
-Notice a bug or have an idea for an interesting use case for Ocean Protocol? Feel free to reach out to us and if we think we can work together, we will definitely send some sweet tokens your way! For more, you can (see this post)[https://explorer.bounties.network/bounty/1407] or reach out to us. 
+Notice a bug or have an idea for an interesting use case using Ocean Protocol? Feel free to reach out to us and if we think we can work together, we will definitely send some sweet tokens your way! For more, you can (see this post)[https://explorer.bounties.network/bounty/1407] or reach out to us. 
