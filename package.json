@@ -1,0 +1,15 @@
+{
+  "name": "testoceantweetbot",
+  "version": "1.0.0",
+  "description": "TestOcean Faucet TweetBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acolytec3",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "twitter": "^1.7.1"
+  }
+}
